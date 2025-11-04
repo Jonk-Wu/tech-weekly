@@ -28,4 +28,4 @@ $ grep -nri css docs | cat --number
 
 **十一月**
 
-- 第 1 期：[马拉松为什么集体“扑街”](docs/issue-1.md)
+- 第 1 期：[马拉松为什么集体“扑街”](docs/2025/十一月/第一期.md)
