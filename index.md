@@ -5,7 +5,7 @@
 - 📖 周刊内容主要参考：[阮一峰的科技周刊](https://github.com/ruanyf/weekly)
 - 💬 欢迎[投稿建议](https://github.com/Jonk-Wu/tech-weekly/issues)
 
-- ## 2025
+ ## 2025
 
 **十一月**
 
