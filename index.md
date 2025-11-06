@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Jonk 的技术周刊"
+title: "Jonk 的科技周刊"
 ---
 
-# Jonk 的技术周刊
+# Jonk 的科技周刊
 
 欢迎来到我的周刊网站，这里记录每周值得分享的内容。
 
