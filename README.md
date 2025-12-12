@@ -29,7 +29,6 @@ $ grep -nri css docs | cat --number
 **十二月**
 
 - 第 6 期：[“蜂群”正在重绘世界](docs/2025/第6期.md)
-
 - 第 5 期：[《Mad Men》4K修复版惨遭“翻车事件”](docs/2025/第5期.md)
 
 **十一月**
