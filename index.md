@@ -10,6 +10,12 @@ title: "Jonk 的科技周刊"
 - 📖 周刊内容主要参考：[阮一峰的科技周刊](https://github.com/ruanyf/weekly)
 - 💬 欢迎[投稿建议](https://github.com/Jonk-Wu/tech-weekly/issues)
 
+## 2026
+
+**三月**
+
+- 第 9 期：[赋予大语言模型“人格”](docs/2026/第9期.md)
+
 ## 2025
 
 **十二月**
