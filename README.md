@@ -23,6 +23,11 @@ $ grep -nri [搜索词] docs | cat --number
 ```bash
 $ grep -nri css docs | cat --number
 ```
+## 2026
+
+**三月**
+
+- 第 9 期：[赋予大语言模型“人格”](docs/2026/第9期.md)
 
 ## 2025
 
